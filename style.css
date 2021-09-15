@@ -1,0 +1,159 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+    color: #222222;
+}
+
+.clearfix {
+    content: '';
+    display: table;
+    width: 100%;
+    clear: both;
+}
+
+header {
+    background-image: url(first-bg.jpg);
+    padding-bottom: 160px;
+}
+
+.container {
+    width: 930px;
+    margin: 0 auto;
+}
+
+.logo {
+    margin-top: 41px;
+    float: left;
+}
+
+nav {
+    float: right;
+    margin-top: 50px;
+}
+
+.menu {
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+
+.menu li {
+    float: left;
+    display: block;
+    margin-right: 41px;
+}
+
+.menu li a {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.titles_first {
+    font-size: 40px;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 180px;
+}
+
+h1 {
+    font-size: 75px;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 15px
+}
+
+.botton {
+    background-color: #fed136;
+    color: #484543;
+    border-radius: 3px;
+    display: block;
+    width: 240px;
+    padding: 20px 0;
+    margin: 0 auto;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 50px;
+}
+
+.title {
+    padding-top: 115px;
+}
+
+.title h2 {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.title p {
+    color: #777777;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+.services {
+    margin-top: 80px;
+}
+
+.servises_item {
+    width: 270px;
+    float: left;
+    text-align: center;
+}
+
+.servises_item h3 {
+    font-size: 18px;
+    margin-bottom: 1px;
+}
+
+.servises_item p {
+    color: #777777;
+    font-size: 14px;
+    line-height: 1.55em;
+}
+
+#portfolio {
+    background: #f7f7f7;
+}
+
+.works img {
+    float: left;
+    margin: 5px;
+}
+
+.about h2 {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 80px;
+    padding-top: 450px;
+}
+
+.about p {
+    font-size: 14px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+footer {
+    background: rgb(219, 217, 217);
+    height: 100px;
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 50px;
+}
+
+.about_us {
+    text-align: center;
+}
